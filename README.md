@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @padge415
+- 👀 I’m interested in learning how to use GitHub
+- 🌱 I’m currently learning python in VSCODE
+- 💞️ I’m looking to collaborate on anything which can help me learn.
+- 📫 How to reach me Padge415@gmail.com
